@@ -16,7 +16,7 @@ description: Does this thing work?
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "Research"
+  Research:
     - Fire and phenology: "firephen"
     - Bumble bee movement: "bbmove"
     - Foraging and dispersal: "fordis"
