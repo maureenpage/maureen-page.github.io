@@ -29,7 +29,7 @@ avatar: "/img/me_photo.png"
 
 # --- Background colour/image options --- #
 
-navbar-col: "#FFD700"
+navbar-col: "#FFD700" !important
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
