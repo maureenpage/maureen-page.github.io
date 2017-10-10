@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: CV
 subtitle: Pollination ecology, population genetics, movement ecology
 css: "/css/index.css"
