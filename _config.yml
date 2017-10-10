@@ -7,7 +7,7 @@ url: "http://John-Mola.github.io"
 baseurl: ""
 
 # Name of website
-title: John Mola
+title: John M. Mola
 
 # Short description of your site
 description: Does this thing work?
@@ -41,7 +41,7 @@ navbar-col: "gold"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: John Mola
+  name: John M. Mola
   email: "jmmola@ucdavis.edu"
   github: John-Mola    # eg. daattali
 
