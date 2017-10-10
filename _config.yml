@@ -25,9 +25,9 @@ navbar-links:
     - GitHub Pages: "https://pages.github.com/"
   Home: ""
 
-#avatar: "/img/beephoto_sqaure.png"
+avatar: "/img/beephoto_sqaure.png"
 
-title-img: "/img/beephoto_sqaure.png"
+#title-img: "/img/beephoto_sqaure.png"
 
 # --- Background colour/image options --- #
 
