@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Fire and phenology
+title: ""
 css: "/css/index.css"
 
 ---
 
-Test test test
-
-What else do you need?
-
-uuuuhhhmmmm
+### Examining the effects of fire on plants and bees
