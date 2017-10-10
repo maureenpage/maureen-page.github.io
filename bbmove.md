@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Bumble bee movement
+title: ""
 css: "/css/index.css"
 
 ---
 
-Test test test
-
-What else do you need?
-
-uuuuhhhmmmm
+### Bumble bee movement ecology

@@ -1,12 +1,8 @@
 ---
 layout: page
-title: The Aggie Brickyard
+title: ""
 css: "/css/index.css"
 
 ---
 
-Test test test
-
-What else do you need?
-
-uuuuhhhmmmm
+### The Aggie Brickyard
