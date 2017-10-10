@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fire and phenology
+title: Bio
 css: "/css/index.css"
 
 ---

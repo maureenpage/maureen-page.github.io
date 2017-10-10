@@ -18,7 +18,7 @@ description: Does this thing work?
 navbar-links:
   Home: ""
   About:
-    - Bio: "bio"
+    - Bio: "Bio"
     - CV: "CV"
   Research:
     - Fire and phenology: "firephen"

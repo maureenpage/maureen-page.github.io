@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Aggie Brickyard
-subtitle: Pollination ecology, population genetics, movement ecology
 css: "/css/index.css"
 
 ---
