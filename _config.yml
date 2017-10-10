@@ -27,8 +27,6 @@ navbar-links:
 
 avatar: "/img/me_photo.png"
 
-#title-img: "/img/beephoto_sqaure.png"
-
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
@@ -149,8 +147,3 @@ prose:
     - /img
     - /js
   
-#gems:
-#  - jekyll-paginate
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
