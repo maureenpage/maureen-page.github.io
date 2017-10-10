@@ -1,13 +1,10 @@
 ---
-layout: post
-title: CV
+layout: page
+title: ""
 css: "/css/index.css"
 
 ---
 
-Test test test
+### Curriculum vitae 
 
-What else do you need?
-
-uuuuhhhmmmm
-
+{% include embedpdf.html code="/pdfs/Mola_CV.pdf" width=100 height=800 %}
