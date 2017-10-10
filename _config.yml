@@ -16,17 +16,18 @@ description: Does this thing work?
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
+  About:
+    - Bio: "bio"
+    - CV: "CV"
   Research:
     - Fire and phenology: "firephen"
     - Bumble bee movement: "bbmove"
     - Foraging and dispersal: "fordis"
-  CV: "CV"
-  Brickyard: "Brickyard"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Home: ""
+  More:
+    - Aggie Brickyard: "Brickyard"
+    - Williams Lab: "http://williamslab.ucdavis.edu"
+  
 
 avatar: "/img/me_photo.png"
 
