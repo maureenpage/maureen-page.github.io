@@ -25,6 +25,10 @@ navbar-links:
     - GitHub Pages: "https://pages.github.com/"
   Home: ""
 
+header-links-active:
+  email: true
+
+
 avatar: "/img/me_photo.png"
 
 # --- Background colour/image options --- #
