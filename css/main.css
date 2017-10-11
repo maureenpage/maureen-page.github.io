@@ -771,3 +771,5 @@ color: #f1c40f;
 .gist, .gist-file table tr td {
   border: unset;
 }
+
+img + em { display: block;}
