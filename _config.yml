@@ -6,7 +6,7 @@
 url: "https://John-Mola.github.io"
 baseurl: ""
 
-site: true
+safe: true
 
 # Name of website
 title: John M. Mola
