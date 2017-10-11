@@ -6,8 +6,6 @@
 url: "https://John-Mola.github.io"
 baseurl: ""
 
-safe: true
-
 # Name of website
 title: John M. Mola
 
@@ -31,7 +29,7 @@ navbar-links:
     - Williams Lab: "https://williamslab.ucdavis.edu"
   
 
-avatar: "/img/me_photo.png"
+avatar: "/img/me_photo_2.png"
 
 # --- Background colour/image options --- #
 
