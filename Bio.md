@@ -12,4 +12,4 @@ I'm a PhD candidate in the [Graduate Group in Ecology](http://ecology.ucdavis.ed
 
 In my non-professional capacity, I enjoy playing music, ultimate frisbee, video games, hanging out with my dog, and being around people who are equally cynical and sarcastic. 
 
-Please get in touch with me if you want to talk bees, genetics, fire, or if you notice as site errors. 
+Please get in touch with me if you want to talk bees, genetics, fire, or if you notice any site errors. 
