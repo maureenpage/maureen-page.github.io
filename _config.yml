@@ -25,7 +25,7 @@ navbar-links:
     - Bumble bee movement: "bbmove"
     - Bee genetics: "beegenes"
   More:
-    - Aggie Brickyard: "Brickyard"
+    - Aggie Brickyard: "https://aggiebrickyard.github.io"
     - Williams Lab: "http://williamslab.ucdavis.edu"
   
 
