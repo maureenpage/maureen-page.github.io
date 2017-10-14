@@ -8,7 +8,9 @@ css: "/css/index.css"
 
 <img align="left" height="240" src="../img/IMG_2610.png">
 
-More specifically, I'm a PhD candidate in the [Graduate Group in Ecology](http://ecology.ucdavis.edu) at UC Davis. I'm advised by [Dr. Neal Williams](http://williamslab.ucdavis.edu). My research interests include pollination ecology, bee biology, population genetics, plant ecology, and landscape ecology. During the field season I enjoy netting bees, taking a leg for a genetic sample, and putting  [little tags on their backs](#anchor). During the rest of the year, I enjoy learning more about R, messing with genetic data, organizing within my graduate group, and working on the [Aggie Brickyard](../Brickyard). 
+Specifically, I'm a PhD candidate in the [Graduate Group in Ecology](http://ecology.ucdavis.edu) at UC Davis. I'm advised by [Dr. Neal Williams](http://williamslab.ucdavis.edu). My research interests include pollination ecology, bee biology, fire ecology, and plant-insect interactions. I use a combination of field work, population genetics, and landscape ecology to answer questions I find interesting. 
+
+During the field season I enjoy netting bees, taking a leg for a genetic sample, and putting  [little tags on their backs](#anchor). During the rest of the year, I enjoy learning more about R, messing with genetic data, organizing within my graduate group, and working on the [Aggie Brickyard](../Brickyard). 
 
 In my non-professional capacity, I enjoy playing music, ultimate frisbee, video games, [hanging out with my dog](#dog), and being around people who are equally cynical and sarcastic. 
 

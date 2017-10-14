@@ -11,9 +11,9 @@ Knowing the scales at which organisms operate throughout their life is a critica
 
 <a id="figure1"></a>
 ![](../img/figs/lifecycle.png)
-*Figure 1: A typical bumble bee life cycle with the difference movement phases labeled.*
+*Figure 1: A typical bumble bee life cycle with the different movement phases labeled.*
 
-For bumble bees in particular, their movement patterns are complicated by sociality, seasonality, and central place foraging. Research interest in their movement dates back at least to Darwin, but much is still to be learned. Further, their movement is of great practical interest as major crop pollinators whose pollen delivery is ultimately dependent on their movement patterns.    
+For bumble bees in particular, their movement patterns change with life stage, caste, behavioral phases, and response to landscape pattern. Research interest in their movement dates back at least to Darwin, but much is still to be learned. It is especially important to understand their movement ecology as mobile agents who pollination many of the world's wild and crop plants. 
 
 The bumble bee life cycle consists of several distinct phases and opportunities for movement  ([Figure 1](#figure1)). Yet, for most components, little is known about when, why, and how far individuals move. For instance, we have some crude estimates of worker foraging distance for several species, but the scale of movement for queens and males is relatively unknown. Further, what we do know is often complicated by differences in methodology, study region, and even in how researchers use terminology ([Figure 2](#figure2)). 
 
