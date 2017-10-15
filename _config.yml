@@ -43,7 +43,6 @@ navbar-col: "gold"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: John M. Mola
   email: "jmmola@ucdavis.edu"
@@ -66,12 +65,10 @@ share-links-active:
   linkedin: true
 
 # How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
 url-pretty: "JohnMola.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+
 
 plugins:
   - jekyll-seo-tag
@@ -82,8 +79,6 @@ google_analytics: "UA-107912354-1"
 # Google Tag Manager ID
 #gtm: ""
 
-# Facebook App ID
-# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
