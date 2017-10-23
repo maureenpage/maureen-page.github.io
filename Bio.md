@@ -2,6 +2,7 @@
 layout: page
 title: ""
 subtitle: "I'm John and I like to learn about bees and plants."
+metatitle: "Bio - John M. Mola"
 css: "/css/index.css"
 ---
 
