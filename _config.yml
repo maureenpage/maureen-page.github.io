@@ -47,12 +47,13 @@ author:
   name: John M. Mola
   email: "jmmola@ucdavis.edu"
   github: John-Mola    # eg. daattali
+  twitter: _JohnMola
 
 
 # Select which links to show in the footer
 footer-links-active:
   email: true
-  twitter: false
+  twitter: true
   github: true
   linkedin: false
   stackoverflow: false
