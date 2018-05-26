@@ -8,7 +8,7 @@ css: "/css/index.css"
 
 ### Curriculum vitae 
 
-If the embedded CV is not displaying properly, you [can download the PDF](/pdfs/Mola_CV_2018_May.pdf). 
+If the embedded CV is not displaying properly, you [can download the PDF](/pdfs/Mola_CV.pdf). 
 
 <object data="/pdfs/Mola_CV.pdf" type="application/pdf" width="800px" height="800px">
     <embed src="/pdfs/Mola_CV.pdf">
