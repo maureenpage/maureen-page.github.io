@@ -20,6 +20,7 @@ navbar-links:
   About:
     - Bio: "Bio"
     - CV: "CV"
+  Publications: "pubs"
   Research:
     - Fire, plants, bees: "firephen"
     - Bumble bee movement: "bbmove"
