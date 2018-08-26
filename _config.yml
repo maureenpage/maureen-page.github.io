@@ -20,11 +20,11 @@ navbar-links:
   About:
     - Bio: "Bio"
     - CV: "CV"
-  Publications: "pubs"
   Research:
     - Fire, plants, bees: "firephen"
     - Bumble bee movement: "bbmove"
     - Bee genetics: "beegenes"
+  Publications: "pubs"
   More:
     - Aggie Brickyard: "https://aggiebrickyard.github.io"
     - Williams Lab: "http://williamslab.ucdavis.edu"
