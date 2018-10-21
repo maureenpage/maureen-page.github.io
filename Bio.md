@@ -7,7 +7,7 @@ css: "/css/index.css"
 ---
 
 
-<img align="left" height="240" src="../img/IMG_2610.png">
+<img align="left" height="220" src="../img/me_PFTF.png" style="margin: 10px 10px; border:2px solid black">
 
 Specifically, I'm a PhD candidate in the [Graduate Group in Ecology](http://ecology.ucdavis.edu) at UC Davis. I'm advised by [Dr. Neal Williams](http://williamslab.ucdavis.edu). My research interests include pollination ecology, bee biology, fire ecology, and plant-insect interactions. I use a combination of field work, population genetics, and landscape ecology to answer questions I find interesting. 
 
