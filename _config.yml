@@ -17,14 +17,10 @@ description: Bee biology, pollination ecology, population genetics
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About:
-    - Bio: "Bio"
-    - CV: "CV"
-  Research:
-    - Fire, plants, bees: "firephen"
-    - Bumble bee movement: "bbmove"
-    - Bee genetics: "beegenes"
+  About: "Bio"
+  Research: "Research"
   Publications: "pubs"
+  CV: "CV"
   More:
     - Aggie Brickyard: "https://aggiebrickyard.github.io"
     - Williams Lab: "http://williamslab.ucdavis.edu"
