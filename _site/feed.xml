@@ -2,9 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John M. Mola</title>
-    <description>Bee biology, pollination ecology, population genetics</description>
+    <description>Bee biology, pollination ecology, conservation biology</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>New review paper out in Apidologie!</title>
+        <description>
+          
+          Mola, J.M. and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie. Link to the article on Apidologie Direct link to PDF This manuscript contains more within it than the title alone lets on. Understanding the landscape-scale movements of bumble bees has long-plagued...
+        </description>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019-06-26-movementreview/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-26-movementreview/</guid>
+      </item>
     
       <item>
         <title>Betteridge's Law in Ecology</title>

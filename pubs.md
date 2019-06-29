@@ -9,6 +9,8 @@ css: "/css/index.css"
 
 Here's my [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en&oi=ao) page as well. 
 
+**Mola, J. M.** and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie [https://doi.org/10.1007/s13592-019-00662-3](https://doi.org/10.1007/s13592-019-00662-3) [[PDF](/pubs/Mola_Williams_Apidologie_2019.pdf)]
+
 LoPresti, E. F., J. I. V. Wyk, **J. M. Mola**, K. Toll, T. J. Miller, and N. M. Williams. 2018. Effects of wildfire on floral display size and pollinator community reduce outcrossing rate in a plant with a mixed mating system. American Journal of Botany 105:1154–1164. [PDF](/pubs/LoPresti_AJB_2018.pdf)
 
 **Mola, J. M.**, and N. M. Williams. 2018. Fire-induced change in floral abundance, density, and phenology benefits bumble bee foragers. Ecosphere 9. [PDF](/pubs/Mola_Williams_Ecosphere_2018.pdf)

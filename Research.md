@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Research
-subtitle: Pollination ecology, population genetics, movement ecology
+subtitle: Pollination ecology, conservation genetics, movement ecology
 css: "/css/index.css"
 
 ---
 
-I am broadly interested in pollinator and pollination ecology, population genetics, movement ecology, and fire ecology. In my research, I attempt to combine elements of all of these areas. 
+I am broadly interested in pollinator and pollination ecology, conservation genetics, movement ecology, and fire ecology. In my research, I attempt to combine elements of all of these areas. 
 
 # Bumble Bee Movement
+
+#### See our publication on bumble bee movement tracking methods here:
+Mola, J.M. and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie [https://doi.org/10.1007/s13592-019-00662-3](https://doi.org/10.1007/s13592-019-00662-3) [[PDF](/pubs/Mola_Williams_Apidologie_2019.pdf)]
 
 Knowing the scales at which organisms operate throughout their life is a critical component to ecological research and species conservation. After all, a valuable habitat that is wholly inaccessible to an individual, directly or indirectly, does not impact its fitness. 
 

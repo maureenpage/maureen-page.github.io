@@ -15,7 +15,7 @@ During the field season I enjoy netting bees, taking a leg for a genetic sample,
 
 In my non-professional capacity, I enjoy playing music, ultimate frisbee, video games, [hanging out with my dog](#dog), and being around people who are equally cynical and sarcastic. 
 
-Please get in touch with me if you want to talk bees, genetics, fire, or if you notice any site errors. 
+Please get in touch with me if you want to talk bees, genetics, fire, or if you notice any site errors. I am fairly active on twitter if that's your thing: [@_JohnMola](https://twitter.com/_JohnMola).
 
 <a id="anchor"></a> <a id="dog"></a>
 ![](../img/small_beetag.png)            ![](../img/DSCN1695.png)

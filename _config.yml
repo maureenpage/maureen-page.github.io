@@ -10,18 +10,19 @@ baseurl: ""
 title: John M. Mola
 
 # Short description of your site
-description: Bee biology, pollination ecology, population genetics
+description: Bee biology, pollination ecology, conservation biology
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About: "Bio"
+  #About: "Bio"
   Research: "Research"
   Publications: "pubs"
   CV: "CV"
   More:
+    - About: "Bio"
     - Aggie Brickyard: "https://aggiebrickyard.github.io"
     - Williams Lab: "http://williamslab.ucdavis.edu"
   
@@ -51,7 +52,7 @@ author:
 footer-links-active:
   email: true
   twitter: true
-  github: true
+  github: false
   linkedin: false
   stackoverflow: false
 
