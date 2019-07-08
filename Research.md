@@ -1,12 +1,16 @@
 ---
 layout: page
 title: Research
-subtitle: Pollination ecology, conservation genetics, movement ecology
+subtitle: Pollination ecology, conservation biology, movement ecology
 css: "/css/index.css"
 
 ---
 
 I am broadly interested in pollinator and pollination ecology, conservation genetics, movement ecology, and fire ecology. In my research, I attempt to combine elements of all of these areas. 
+
+
+
+
 
 # Bumble Bee Movement
 
@@ -30,7 +34,7 @@ The bumble bee life cycle consists of several distinct phases and opportunities 
 
 # Bees, flowers, and fire
 
-More information coming eventually... However, all of my accepted publications to date are in some way releated to this topic, so check them out:
+More information coming eventually... However, here are some publications I have authored on the subject:
 
 + Mola, J. M., and N. M. Williams. 2018. Fire-induced change in floral abundance, density, and phenology benefits bumble bee foragers. Ecosphere 9.
 
