@@ -18,9 +18,8 @@ bigimg:
 
 <div style="text-align:center">
   <p style="font-family: calibri; font-size:22pt">
-  PhD Candidate, <a href="http://williamslab.ucdavis.edu">Williams Lab</a> <br>
-  Graduate Group in Ecology <br>
-  University of California Davis <br>
+  USGS Mendenhall Postdoctoral Fellow <br>
+  Fort Collins, Colorado <br>
   johnmmola [at] gmail.com
   
   </p>
