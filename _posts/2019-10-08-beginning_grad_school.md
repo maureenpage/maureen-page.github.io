@@ -5,6 +5,8 @@ image: /img/posts/IMG_6384.JPG
 tags: [graduate school, project planning, thoughts]
 ---
 
+<img src="../img/posts/IMG_6385.JPG">
+
 Tomorrow is my exit seminar and the official end of my PhD at UC Davis!
 
 It feels so long ago that I began graduate school and to know it's ending is a strange feeling indeed. Alongside this ending is the new beginning of my postdoctoral position! 
