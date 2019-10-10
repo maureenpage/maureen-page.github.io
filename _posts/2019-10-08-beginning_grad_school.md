@@ -5,6 +5,8 @@ image: /img/posts/IMG_6384.JPG
 tags: [graduate school, project planning, thoughts]
 ---
 
+Here's a list of books that I came back to time and again as a graduate student. 
+
 <img src="../img/posts/IMG_6385.JPG">
 
 Tomorrow is my exit seminar and the official end of my PhD at UC Davis!
