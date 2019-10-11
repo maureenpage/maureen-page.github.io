@@ -3,11 +3,11 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "https://maureen-page.github.io"
+url: "https://maureenpage.github.io"
 baseurl: ""
 
 # Name of website
-title: John M. Mola
+title: Maureen L. Page
 
 # Short description of your site
 description: Bee biology, pollination ecology, conservation biology
@@ -22,7 +22,6 @@ navbar-links:
   Publications: "pubs"
   CV: "CV"
   More:
-    - Aggie Brickyard: "https://aggiebrickyard.github.io"
     - Williams Lab: "http://williamslab.ucdavis.edu"
   
 
