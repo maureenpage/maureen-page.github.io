@@ -7,7 +7,7 @@ css: "/css/index.css"
 
 ### Peer-reviewed publications
 
-My [Google Scholar](https://scholar.google.com/citations?user=r9e-7i0AAAAJ&hl=en&oi=ao) page may be more up to date. 
+My [Google Scholar](https://scholar.google.com/citations?user=DnZBrhMAAAAJ&hl=en) page may be more up to date. 
 
 **Mola, J. M.** and N. M. Williams. 2019. A review of methods for the study of bumble bee movement. Apidologie [DOI](https://doi.org/10.1007/s13592-019-00662-3), [PDF](/pubs/Mola_Williams_Apidologie_2019.pdf)
 
