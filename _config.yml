@@ -7,7 +7,7 @@ url: "https://maureen-page.github.io"
 baseurl: ""
 
 # Name of website
-title: John M. Mola
+title: Maureen L. Page
 
 # Short description of your site
 description: Bee biology, pollination ecology, conservation biology
@@ -21,16 +21,17 @@ navbar-links:
   Research: "Research"
   Publications: "pubs"
   CV: "CV"
+  Collaborators:
+    - John Mola: "http://johnmola.com"
   More:
-    - Aggie Brickyard: "https://aggiebrickyard.github.io"
     - Williams Lab: "http://williamslab.ucdavis.edu"
   
 
-avatar: "/img/me_photo_2.png"
+avatar: "/img/Academic-Headshot copy.png"
 
 # --- Background colour/image options --- #
 
-navbar-col: "gold" 
+navbar-col: "blue" 
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
@@ -41,10 +42,10 @@ navbar-col: "gold"
 
 # Change all these values or delete the ones you don't want.
 author:
-  name: John M. Mola
-  email: "jmmola@ucdavis.edu"
-  github: John-Mola    # eg. daattali
-  twitter: _JohnMola
+  name: Maureen L. Page
+  email: "mpage@ucdavis.edu"
+  github: maureenpage    # eg. daattali
+  twitter: _MaureenPage
 
 
 # Select which links to show in the footer
@@ -63,7 +64,7 @@ share-links-active:
   linkedin: true
 
 # How to display the link to the website in the footer
-url-pretty: "JohnMola.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "maureen.page"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -72,7 +73,7 @@ plugins:
   - jekyll-seo-tag
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-107912354-1"
+# google_analytics: "UA-107912354-1" # un hashtag later to use this if you want 
 
 # Google Tag Manager ID
 #gtm: ""
