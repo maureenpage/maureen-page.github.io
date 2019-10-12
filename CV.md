@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ""
-meta-title: "CV - John M. Mola"
+meta-title: "CV - Maureen L. Page"
 css: "/css/index.css"
 
 ---
 
 ### Curriculum vitae 
 
-If the embedded CV is not displaying properly, you [can download the PDF](/pdfs/Mola_CV.pdf). 
+If the embedded CV is not displaying properly, you [can download the PDF](/pdfs/MaureenPage_CV_Fall2019.pdf). 
 
 <object data="/pdfs/Mola_CV.pdf" type="application/pdf" width="800px" height="800px">
     <embed src="/pdfs/Mola_CV.pdf">

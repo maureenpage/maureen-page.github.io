@@ -22,16 +22,16 @@ navbar-links:
   Publications: "pubs"
   CV: "CV"
   Collaborators:
-    - John Mola: "http://johnmola.com"
-  More:
-    - Williams Lab: "http://williamslab.ucdavis.edu"
+   - Williams Lab: "http://williamslab.ucdavis.edu"
+   - The Echinanea Project: "http://echinaceaproject.org/"
+   - John Mola: "http://johnmola.com"
   
 
 avatar: "/img/Academic-Headshot copy.png"
 
 # --- Background colour/image options --- #
 
-navbar-col: "green" 
+navbar-col: "blue" 
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
