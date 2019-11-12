@@ -31,7 +31,7 @@ avatar: "/img/Academic-Headshot copy.png"
 
 # --- Background colour/image options --- #
 
-navbar-col: "blue"
+navbar-col: "blue" !important;
 
 # --- Footer options --- #
 
